@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @abhiGitCoder
-- 👀 I’m interested in java full stack
-- 🌱 I’m currently learning java full stack dev in JSpiders
-- 💞️ I’m looking to collaborate on Java Back-end dev
+- 👀 I’m interested in full stack application using Java, PHP,  Laravel sail, Reactjs
+- 🌱 I’m currently working as Softwre Engineer at Ideaxecution Technologies
+- 💞️ I’m looking to collaborate on developers
 - 📫 How to reach me . abhick006@gmail.com
 
 <!---
