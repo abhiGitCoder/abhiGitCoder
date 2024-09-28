@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abhiGitCoder
 - 👀 I’m interested in full stack application using Java, PHP,  Laravel sail, Reactjs
-- 🌱 I’m currently working as Softwre Engineer at Ideaxecution Technologies
+- 🌱 I’m currently working as Software Engineer at Ideaxecution Technologies
 - 💞️ I’m looking to collaborate on developers
 - 📫 How to reach me . abhick006@gmail.com
 
